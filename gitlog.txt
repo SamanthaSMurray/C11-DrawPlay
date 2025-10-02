@@ -1,0 +1,11 @@
+commit a7983413144cdae90df71bfeee9397d1acb5b8bb
+Author: Ryan Clark <nvidiamaster01@gmail.com>
+Date:   Wed Oct 1 18:00:53 2025 -0600
+
+    changed the eye color to blue
+
+commit d7dd664fbeadef21b6a6333ad83cbacc07fea47b
+Author: Sam Murray <samanthamurray0812@gmail.com>
+Date:   Wed Oct 1 12:45:33 2025 -0600
+
+    First Commit
